@@ -55,7 +55,7 @@ Used to generate a basegrid in the agrodem process. This is a test repository
 * The admin boundaries layer for the area of interest (polygons) ([GADM](https://gadm.org/))
 * FAO agro map
 
-The input csv should contain the following information:
+The input FAO agro map should contain the following information:
 
 1. **state** - name of the state
 2. **c_code** - country code 
